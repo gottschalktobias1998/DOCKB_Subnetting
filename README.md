@@ -21,13 +21,13 @@ Dieses Projekt bietet eine Sammlung von Funktionen zur Arbeit mit IPv4-Adressen 
 1. Klone das Repository:
 
     ```bash
-    git clone https://github.com/gottschalktobias1998/IPv4_Task
+    https://github.com/gottschalktobias1998/DOCKB_Subnetting
     ```
 
 2. Wechsle in das Projektverzeichnis:
 
     ```bash
-    cd ipv4-subnet-utilities
+    cd DOCKB_Subnetting
     ```
 
 3. Installiere die Abhängigkeiten:
