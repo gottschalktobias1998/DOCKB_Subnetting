@@ -8,7 +8,11 @@ Tipp: Finden Sie heraus, ab dem wie vielten Bit des Headers die Versionsnummer a
 
 Schreiben Sie eine Funktion shorten_ipv6_address(...), die eine ausführlich ausgeschriebene IPv6-Adresse als Eingabe erhält und eine gekürzte Version zurückgibt. In RFC 4291 ist der IPv6-Standard ausführlich beschrieben, darunter auch die Textdarstellung von IPv6-Adressen in Abschnitt 2.2. Nutzen Sie https://www.linkwebbie.com/apps/ipv6-validator, um Ihre Implementierung zu testen.
 
-Beispiel: 2001:aaaa:bbbb:cccc:0000:0000:0000:0010 kann abgekürzt werden als 2001:aaaa:bbbb:cccc:0:0:0:10. Frage: Ist auch 2001:aaaa:bbbb:cccc::::10 eine gültige Abkürzung? Wenn ja, wieso? Wenn nein, wieso nicht?
+Beispiel:
+2001:aaaa:bbbb:cccc:0000:0000:0000:0010 kann abgekürzt werden als 
+2001:aaaa:bbbb:cccc:   0:   0:   0:  10. Frage: Ist auch 
+2001:aaaa:bbbb:cccc::::10 eine gültige Abkürzung? 
+Wenn ja, wieso? Wenn nein, wieso nicht?
 
 # is_loopback_address
 

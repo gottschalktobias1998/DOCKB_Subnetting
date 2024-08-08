@@ -3,3 +3,6 @@ export { cidrToMask } from "./cidrToMask";
 export { dotDecimalToMask } from "./dotDecimalToMask";
 export { ipToNumber } from "./ipToNumber";
 export { numberToIp } from "./numberToIp";
+
+
+// IPv6_TASK
